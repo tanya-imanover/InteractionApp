@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InteractionApp</string>
+    <string name="open_app_btn">Open App</string>
+    <string name="not_installed_title">App is not found</string>
+    <string name="not_installed_message">Install this App from GooglePlay</string>
+    <string name="download_ok">install</string>
+    <string name="download_cancel">no, thanks</string>
+</resources>
